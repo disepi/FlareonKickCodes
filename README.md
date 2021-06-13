@@ -4,7 +4,7 @@ Flareon/Hive's anticheat kick codes, read below. These are not 100% correct.
 # Abagnale
 > Cause
 
-This occurs when you login with EditionFaker. This flags when your game edition is not matching to your game editon in the LoginPacket that is sent when you join.
+This occurs when you login with EditionFaker. This flags when your game edition is not matching to your game edition in the LoginPacket that is sent when you join.
 
 > Solution
 
