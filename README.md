@@ -164,7 +164,7 @@ This occurs when you tamper with packets.
 
 Solution 1: No real solution.
 
-#403
+# 403
 > Cause
 
 The cause of this has not been 100% found. This could be changing onGround while in the packet.
@@ -175,7 +175,7 @@ Solution 1: Do not change onGround in packet when not needed.
 
 Solution 2: Always make onGround in packets true.
 
-#404
+# 404
 > Cause
 
 This occurs when you change velocity while midair.
@@ -186,7 +186,7 @@ Solution 1: Keep the velocity at a static value while midair.
 
 Solution 2: Set onGround in outgoing MovePlayerPackets to true.
 
-#405
+# 405
 > Cause
 
 This occurs when you attack without sending a swing animation packet. This flags bad killauras (toolbox)
@@ -199,7 +199,7 @@ Solution 2: Send swing animation packets.
 
 Solution 3: Delay before attacking is too low, this will false if you attack too fast!
 
-#SPE-90
+# SPE-90
 > Cause
 
 This is a more strict Platinumo/Element1 check.
@@ -212,7 +212,7 @@ Solution 2: Set onGround in outgoing MovePlayerPackets to true.
 
 Solution 3: Find a way to make the server think you're on ground.
 
-#SFF-90
+# SFF-90
 > Cause
 
 This is a more strict Element1/Platinumo/SPE-90 check. The actual cause is not known, it may be checking if you haven't changed your Y position in a while, if the block below you has been air for too long etc.
