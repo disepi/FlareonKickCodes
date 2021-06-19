@@ -101,13 +101,15 @@ Solution 3: Do not float upwards.
 # Orangebird
 > Cause
 
-The cause of this has not been 100% found. This could be either be going too slow/too fast, shifting X/Z velocity while in air. This is a more strict Bluebird check.
+This occurs when you move too fast/slow while in air.
 
 > Solution
 
 Solution 1: Match the speed you're going at to sprinting speed.
 
 Solution 2: Do not shift X/Z velocity while in air.
+
+Solution 3: Stay onground
 
 # JFEM3D
 > Cause
