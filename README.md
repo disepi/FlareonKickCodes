@@ -1,6 +1,10 @@
 # FlareonKickCodes
 Flareon/Hive's anticheat kick codes, read below. These are not 100% correct.
 
+# Note
+
+Kick messages are disabled with the new anticheat update in Skywars and Treasure Wars. Any other game still has these kick messages!
+
 # Abagnale
 > Cause
 
